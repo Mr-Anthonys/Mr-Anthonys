@@ -13,7 +13,8 @@
   <img align="center" alt="Andreas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andreas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <!-- <img align="center" alt="Andreas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
- <img align="right" alt="Andreas-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1106294017207050282/1106312760234627183/Logo_redonda.png?width=678&height=677"> 
+ <img align="right" alt="Andreas-pic" height="150" style="border-radius:50px;" src="[https://media.discordapp.net/attachments/1106294017207050282/1106312760234627183/Logo_redonda.png?width=678&height=677](https://media.discordapp.net/attachments/1288303411506184193/1288303465298268262/avatar-perfil.jpeg?ex=66f4b199&is=66f36019&hm=d471d37942b7502a2d304d50d3436873216cef9d2a8227108f4a8a10fb7bb189&=&format=webp&width=649&height=649)"> 
+  
 </div>
   
   ##
