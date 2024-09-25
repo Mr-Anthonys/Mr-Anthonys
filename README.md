@@ -29,5 +29,5 @@
   
 </div>
   
-  ![snake gif](https://github.com/Mr-Anthonys/Mr-Anthonys/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Mr-Anthonys/mr-anthonys/blob/output/github-contribution-grid-snake.svg)
   
