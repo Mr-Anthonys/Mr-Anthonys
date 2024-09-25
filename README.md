@@ -13,7 +13,7 @@
   <img align="center" alt="Andreas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andreas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <!-- <img align="center" alt="Andreas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
- <img align="right" alt="Andreas-pic" height="649" style="border-radius:50"; src="https://discord.com/channels/@me/1288303411506184193/1288303465642070016"> 
+ <img align="right" alt="Andreas-pic" height="50" style="border-radius:50" src="https://discord.com/channels/@me/1288303411506184193/1288303465642070016"> 
   
 </div>
   
@@ -29,5 +29,5 @@
   
 </div>
   
-  ![snake gif](https://github.com/Mr-Anthonys/Mr-Anthonys/blob/output/github-contribution-grid-snake.svg)
+ <!-- ![snake gif](https://github.com/Mr-Anthonys/Mr-Anthonys/blob/output/github-contribution-grid-snake.svg) -->
   
