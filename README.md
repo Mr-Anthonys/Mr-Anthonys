@@ -1,9 +1,9 @@
 ## Hello! I'm Andreas Anthony
 
 <div>
-<a href="https://github.com/oiDreas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oiDreas&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oiDreas&show_icons=true&theme=dracula"/>
+<a href="https://github.com/Mr-Anthonys">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mr-Anthonys&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Anthonys&show_icons=true&theme=dracula"/>
  </div>
 
 
@@ -28,5 +28,5 @@
   
 </div>
   
-  ![snake gif](https://github.com/oiDreas/oidreas/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Mr-Anthonys/Mr-Anthonys/blob/output/github-contribution-grid-snake.svg)
   
